@@ -26,7 +26,7 @@ https://www.thechairmansbao.com - simple news pieces - audio + text, with a voca
 http://zhongwen-chrome.blogspot.com - Zhongwen: Chinese-English Dictionary 
 - character popup + PinYin + translation
 
-* [Rolko](https://www.rolko.xyz/) — Desktop Chrome popup dictionary for selectable Chinese webpage text, with pinyin and meanings. Basic lookup is free. Saving new words requires a paid plan; previously saved words remain reviewable on Free. Includes AI-assisted features.
+* [Rolko](https://www.rolko.xyz/chinese-popup-dictionary-for-websites) — Desktop Chrome popup dictionary for selectable Chinese webpage text, with pinyin and meanings. Basic lookup is free. Saving new words requires a paid plan; previously saved words remain reviewable on Free. Includes AI-assisted features.
 
 
 Beginner:
